@@ -17,16 +17,12 @@ git reset --hard HEAD^
 git ref
 查看当前项目的状态
 git status
-
-
-
-
-
-
-
-
-
-
+合并分支
+git merge 分支名
+查看分支
+git branch 
+切换分支
+git checkout 分支名
 
 
 
