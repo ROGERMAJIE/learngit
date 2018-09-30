@@ -14,7 +14,7 @@ git log
 当然往上100个版本写100个^比较容易数不过来，所以写成HEAD~100。）
 git reset --hard HEAD^
 记录每次的执行命令
-git ref
+git reflog
 查看当前项目的状态
 git status
 合并分支
@@ -23,9 +23,6 @@ git merge 分支名
 git branch 
 切换分支
 git checkout 分支名
-
-
-
 
 
 
